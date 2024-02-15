@@ -37,10 +37,12 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
     color:#404bbf;
 }
-.address-link:hover {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 .address {
