@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style: none;
+}
+.logo {
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+.logo-part {
+    color: #2E2F42;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+.nav-link {
+    color: #2E2F42;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.nav-link:hover,
+.nav-link:focus{
+    color: #404BBF;
+}
+.address {
+    font-style: normal;
+}
+.address-link {
+    color: #434455;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
