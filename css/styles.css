@@ -17,6 +17,7 @@ button {
     font-family: Raleway, sans-serif;
     font-weight: 700;
     font-size: 18px;
+    text-transform: uppercase;
     line-height: 1.17;
     letter-spacing: 0.03em;
 }
@@ -38,7 +39,7 @@ button {
 }
 .nav-link:hover,
 .nav-link:focus{
-    color: #404BBF;
+    color: #404bbf;
 }
 .address {
     font-style: normal;
@@ -60,7 +61,7 @@ button {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 .head-btn {
@@ -76,10 +77,29 @@ button {
 .head-btn:hover {
     background-color: #404BBF;
 }
+.header-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.header-strateg {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.strateg-list {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .part-three {
    background-color: #F4F4FD;
 }
-.header-two {
+.header-three {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -89,7 +109,7 @@ button {
     color: #2e2f42;
     }
    .team-list {
-    background-color: #fff;
+    background-color: #FFFFFF;
    } 
    .team-name {
     font-weight: 500;
@@ -112,14 +132,15 @@ button {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.01em; ;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .portfolio-description {
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.02em;
 }
 .page-footer {
    background-color: #2e2f42;
